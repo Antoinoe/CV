@@ -1,6 +1,4 @@
-Hello, welcome!
-
-In this repo you can find my resume in english and in french.
+Hello! I'm a French Unity Developer. Here you can find my resume! :)
 
 If my profile catches your interest, don't hesitate to contact me on LinkedIn or by email :
 
