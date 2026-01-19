@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Noé Guillaumin",
-    "headline": "Développeur C# - CDD/CDI",
+    "headline": "Développeur Informatique - CDD/CDI",
     "email": "noeguillaumin@gmail.com",
     "phone": "+33 6 67 46 93 93",
     "location": "Courbevoie - FRANCE",
@@ -62,7 +62,7 @@
           "area": "Ingénieur Informatique",
           "score": "",
           "date": "2022-2025",
-          "summary": "<p>- Double diplôme (Master Of Science)<br>- Conception de technologies innovantes (VR, IA, Robotique, ...)<br>- Travaux sur des projets VR venant du MIT Media Lab</p>",
+          "summary": "<p>- Double diplôme (Master Of Science)<br>- Conception de technologies innovantes (VR, IA, Robotique, ...)<br>- Travaux sur des projets VR issus du MIT Media Lab</p>",
           "url": {
             "label": "",
             "href": "https://ift.devinci.fr"
@@ -124,7 +124,7 @@
           "company": "Obvious Technologies",
           "position": "Développeur Unity C#",
           "location": "Nanterre - France",
-          "date": "Mars - Aout 2024",
+          "date": "Mars - Août 2024",
           "summary": "<p>- Programmation <strong>C# MVC </strong><br>- Écriture et résolutions d'issues Gitlab<br>- Travail d'équipe pluridisciplinaire</p>",
           "url": {
             "label": "",
@@ -138,7 +138,7 @@
           "position": "Ingénieur de Recherche",
           "location": "Rennes - France",
           "date": "Avril - Août 2023",
-          "summary": "<p>- Application Unity <strong>C#</strong> <strong>AR/VR</strong><br>- Conception de l'architecture<br>- Mise en place expérimentation utilisateur<br>- Publication du papier de recherche à IHM2025<br> </p>",
+          "summary": "<p>- Application Unity <strong>C#</strong> <strong>AR/VR</strong><br>- Conception de l'architecture<br>- Mise en place d'expérimentations utilisateur<br>- Publication du papier de recherche à IHM2025<br> </p>",
           "url": {
             "label": "",
             "href": "https://inria.fr/fr"
@@ -150,8 +150,8 @@
           "company": "Farm3",
           "position": "Développeur C#",
           "location": "Paris - France",
-          "date": "Avril - Aout 2022",
-          "summary": "<p>- Conception application AR sous Unity<br>- Traitement de données en temps réel<br>- Présentations de l'applications aux agronomes</p>",
+          "date": "Avril - Août 2022",
+          "summary": "<p>- Conception application AR sous Unity<br>- Traitement de données en temps réel<br>- Présentation de l'application aux agronomes</p>",
           "url": {
             "label": "",
             "href": "https://www.farmcube.eu"
@@ -168,7 +168,7 @@
       "items": []
     },
     "interests": {
-      "name": "Centres d’Intêrets",
+      "name": "Centres d’Intérêts",
       "columns": 1,
       "separateLinks": true,
       "visible": true,
@@ -199,7 +199,7 @@
       ]
     },
     "languages": {
-      "name": "Langages",
+      "name": "Langues",
       "columns": 1,
       "separateLinks": true,
       "visible": true,
@@ -209,14 +209,14 @@
           "id": "z20ix3mvrgfvfewngcst3boz",
           "visible": true,
           "name": "Français",
-          "description": "Natif",
+          "description": "",
           "level": 0
         },
         {
           "id": "nb0iq36z5mb9zamb50bepdao",
           "visible": true,
           "name": "Anglais",
-          "description": "B1",
+          "description": "",
           "level": 0
         }
       ]
@@ -358,7 +358,7 @@
         {
           "id": "tdl8keqzak9ji3ej4qj66s4o",
           "visible": true,
-          "name": "Language de Programmation",
+          "name": "Languages de Programmation",
           "description": "",
           "level": 0,
           "keywords": [
@@ -378,16 +378,16 @@
           "description": "",
           "level": 0,
           "keywords": [
-            "Computer Graphic",
             "Machine Learning",
             "DevOps",
-            "Architecture Logiciel",
             "Game Design",
             "Linux",
-            "Écriture de papier de recherche",
             "Dev Web",
             "Impression 3D",
-            "Modélisation 3D"
+            "Modélisation 3D",
+            "Computer Graphics",
+            "Architecture Logicielle",
+            "Rédaction De Papier De Recherche"
           ]
         }
       ]
@@ -466,9 +466,9 @@
         "variants": [
           "regular"
         ],
-        "size": 12.95
+        "size": 13.3
       },
-      "lineHeight": 1.35,
+      "lineHeight": 1.25,
       "hideIcons": false,
       "underlineLinks": true
     },
